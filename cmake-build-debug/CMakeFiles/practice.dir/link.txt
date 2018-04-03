@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/practice.dir/10216.cpp.o  -o practice 
