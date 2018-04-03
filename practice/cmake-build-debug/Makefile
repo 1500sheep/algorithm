@@ -123,32 +123,32 @@ practice/fast:
 	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/build
 .PHONY : practice/fast
 
-main.o: main.cpp.o
+sample.o: sample.cpp.o
 
-.PHONY : main.o
+.PHONY : sample.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/main.cpp.o
-.PHONY : main.cpp.o
+sample.cpp.o:
+	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/sample.cpp.o
+.PHONY : sample.cpp.o
 
-main.i: main.cpp.i
+sample.i: sample.cpp.i
 
-.PHONY : main.i
+.PHONY : sample.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/main.cpp.i
-.PHONY : main.cpp.i
+sample.cpp.i:
+	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/sample.cpp.i
+.PHONY : sample.cpp.i
 
-main.s: main.cpp.s
+sample.s: sample.cpp.s
 
-.PHONY : main.s
+.PHONY : sample.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/main.cpp.s
-.PHONY : main.cpp.s
+sample.cpp.s:
+	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/sample.cpp.s
+.PHONY : sample.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... practice"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... sample.o"
+	@echo "... sample.i"
+	@echo "... sample.s"
 .PHONY : help
 
 

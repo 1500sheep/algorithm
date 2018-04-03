@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/jameskang/gitProject/algorithmQ/practice/main.cpp">
+		<Unit filename="/home/jameskang/gitProject/algorithmQ/practice/sample.cpp">
 			<Option target="practice"/>
 		</Unit>
 		<Unit filename="/home/jameskang/gitProject/algorithmQ/practice/CMakeLists.txt">

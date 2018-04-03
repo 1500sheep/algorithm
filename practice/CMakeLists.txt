@@ -3,4 +3,4 @@ project(practice)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(practice main.cpp)
+add_executable(practice sample.cpp)

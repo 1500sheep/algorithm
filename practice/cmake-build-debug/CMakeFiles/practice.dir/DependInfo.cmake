@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jameskang/gitProject/algorithmQ/practice/main.cpp" "/home/jameskang/gitProject/algorithmQ/practice/cmake-build-debug/CMakeFiles/practice.dir/main.cpp.o"
+  "/home/jameskang/gitProject/algorithmQ/practice/sample.cpp" "/home/jameskang/gitProject/algorithmQ/practice/cmake-build-debug/CMakeFiles/practice.dir/sample.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
