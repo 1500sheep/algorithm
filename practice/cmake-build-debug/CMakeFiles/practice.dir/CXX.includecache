@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/jameskang/gitProject/algorithmQ/practice/sample.cpp
+/home/jameskang/gitProject/algorithmQ/practice/12100.cpp
 iostream
+-
+algorithm
+-
+vector
+-
+queue
+-
+cstring
 -
 

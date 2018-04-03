@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/practice.dir/sample.cpp.o  -o practice 
+/usr/bin/c++  -g   CMakeFiles/practice.dir/12100.cpp.o  -o practice 
