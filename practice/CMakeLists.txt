@@ -3,4 +3,4 @@ project(practice)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(practice 12100.cpp)
+add_executable(practice 3190.cpp)

@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/jameskang/gitProject/algorithmQ/practice/12100.cpp
+/home/jameskang/gitProject/algorithmQ/practice/3190.cpp
 iostream
 -
 algorithm
 -
-vector
+cstring
 -
 queue
--
-cstring
 -
 
