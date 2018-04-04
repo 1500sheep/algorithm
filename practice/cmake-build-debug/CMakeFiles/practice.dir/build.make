@@ -57,38 +57,38 @@ include CMakeFiles/practice.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/practice.dir/flags.make
 
-CMakeFiles/practice.dir/3190.cpp.o: CMakeFiles/practice.dir/flags.make
-CMakeFiles/practice.dir/3190.cpp.o: ../3190.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jameskang/gitProject/algorithmQ/practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/practice.dir/3190.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/practice.dir/3190.cpp.o -c /home/jameskang/gitProject/algorithmQ/practice/3190.cpp
+CMakeFiles/practice.dir/14501.cpp.o: CMakeFiles/practice.dir/flags.make
+CMakeFiles/practice.dir/14501.cpp.o: ../14501.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jameskang/gitProject/algorithmQ/practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/practice.dir/14501.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/practice.dir/14501.cpp.o -c /home/jameskang/gitProject/algorithmQ/practice/14501.cpp
 
-CMakeFiles/practice.dir/3190.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/practice.dir/3190.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jameskang/gitProject/algorithmQ/practice/3190.cpp > CMakeFiles/practice.dir/3190.cpp.i
+CMakeFiles/practice.dir/14501.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/practice.dir/14501.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jameskang/gitProject/algorithmQ/practice/14501.cpp > CMakeFiles/practice.dir/14501.cpp.i
 
-CMakeFiles/practice.dir/3190.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/practice.dir/3190.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jameskang/gitProject/algorithmQ/practice/3190.cpp -o CMakeFiles/practice.dir/3190.cpp.s
+CMakeFiles/practice.dir/14501.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/practice.dir/14501.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jameskang/gitProject/algorithmQ/practice/14501.cpp -o CMakeFiles/practice.dir/14501.cpp.s
 
-CMakeFiles/practice.dir/3190.cpp.o.requires:
+CMakeFiles/practice.dir/14501.cpp.o.requires:
 
-.PHONY : CMakeFiles/practice.dir/3190.cpp.o.requires
+.PHONY : CMakeFiles/practice.dir/14501.cpp.o.requires
 
-CMakeFiles/practice.dir/3190.cpp.o.provides: CMakeFiles/practice.dir/3190.cpp.o.requires
-	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/3190.cpp.o.provides.build
-.PHONY : CMakeFiles/practice.dir/3190.cpp.o.provides
+CMakeFiles/practice.dir/14501.cpp.o.provides: CMakeFiles/practice.dir/14501.cpp.o.requires
+	$(MAKE) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/14501.cpp.o.provides.build
+.PHONY : CMakeFiles/practice.dir/14501.cpp.o.provides
 
-CMakeFiles/practice.dir/3190.cpp.o.provides.build: CMakeFiles/practice.dir/3190.cpp.o
+CMakeFiles/practice.dir/14501.cpp.o.provides.build: CMakeFiles/practice.dir/14501.cpp.o
 
 
 # Object files for target practice
 practice_OBJECTS = \
-"CMakeFiles/practice.dir/3190.cpp.o"
+"CMakeFiles/practice.dir/14501.cpp.o"
 
 # External object files for target practice
 practice_EXTERNAL_OBJECTS =
 
-practice: CMakeFiles/practice.dir/3190.cpp.o
+practice: CMakeFiles/practice.dir/14501.cpp.o
 practice: CMakeFiles/practice.dir/build.make
 practice: CMakeFiles/practice.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jameskang/gitProject/algorithmQ/practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable practice"
@@ -99,7 +99,7 @@ CMakeFiles/practice.dir/build: practice
 
 .PHONY : CMakeFiles/practice.dir/build
 
-CMakeFiles/practice.dir/requires: CMakeFiles/practice.dir/3190.cpp.o.requires
+CMakeFiles/practice.dir/requires: CMakeFiles/practice.dir/14501.cpp.o.requires
 
 .PHONY : CMakeFiles/practice.dir/requires
 

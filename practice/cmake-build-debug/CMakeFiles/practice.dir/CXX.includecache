@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/jameskang/gitProject/algorithmQ/practice/3190.cpp
+/home/jameskang/gitProject/algorithmQ/practice/14501.cpp
 iostream
 -
 algorithm
--
-cstring
--
-queue
 -
 
